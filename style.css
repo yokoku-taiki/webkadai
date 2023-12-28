@@ -109,7 +109,7 @@ header .menu-bar li a:hover {
 
 /* hero section */
 .hero {
-  background-image: url("./images/another-world.jpg");
+  background-image: url("https://github.com/yokoku-taiki/webkadai/blob/main/another-world.jpg?raw=true");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -183,7 +183,7 @@ header .menu-bar li a:hover {
 
 /* company section */
 .company {
-  background-image: url("./images/house.jpg");
+  background-image: url("https://github.com/yokoku-taiki/webkadai/blob/main/house.jpg?raw=true");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -290,7 +290,7 @@ header .menu-bar li a:hover {
 
 /* contact section */
 .contact {
-  background-image: url("./images/cnt-bg-img.png");
+  background-image: url("https://github.com/yokoku-taiki/webkadai/blob/main/cnt-bg-img.png?raw=true");
   background-size: cover;
   background-attachment: fixed;
   position: relative;
